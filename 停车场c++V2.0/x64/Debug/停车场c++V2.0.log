@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\新建文件夹\c语言编程\Git\zcl\停车场c++V2.0\源.cpp(42,34): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场c++V2.0\源.cpp(85,11): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场c++V2.0\源.cpp(134,11): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  停车场c++V2.0.vcxproj -> D:\新建文件夹\c语言编程\Git\zcl\停车场c++V2.0\x64\Debug\停车场c++V2.0.exe

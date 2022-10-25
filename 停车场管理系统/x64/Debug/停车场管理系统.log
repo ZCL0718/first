@@ -1,0 +1,31 @@
+﻿  源.c
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(66,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(88,16): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(90,8): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(92,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(93,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(101,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(104,15): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(138,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(139,9): warning C4101: “j”: 未引用的局部变量
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(159,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(170,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(181,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(189,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(157,9): warning C4101: “j”: 未引用的局部变量
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(203,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(208,15): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(211,7): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(215,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(222,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(225,17): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(226,10): warning C4101: “t2”: 未引用的局部变量
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(238,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(251,15): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(279,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(285,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(321,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(322,21): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(357,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\源.c(369,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  停车场管理系统.vcxproj -> D:\新建文件夹\c语言编程\Git\zcl\停车场管理系统\x64\Debug\停车场管理系统.exe
